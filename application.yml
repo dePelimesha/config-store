@@ -1,2 +1,4 @@
 app:
   word: "hello"
+  properties:
+    word: "Hello"

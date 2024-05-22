@@ -1,4 +1,2 @@
 app:
-  word: "hello from main refreshed"
-  service:
-    impl: "second"
+  word: "hello"
